@@ -7,10 +7,6 @@ Link para o curso [Python Pro](https://www.python.pro.br/)
 
 Suportada versão 3 de Python
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 5df51821375fbf6d6e3c2ead5c73c001d33a2433
 Para instalar:
 
 ```console
