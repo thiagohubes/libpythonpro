@@ -15,3 +15,7 @@ def buscar_avatar(usuario):
 
 if __name__ == '__main__':
     print(buscar_avatar('thiagohubes'))
+<<<<<<< HEAD
+=======
+
+>>>>>>> 5df51821375fbf6d6e3c2ead5c73c001d33a2433
