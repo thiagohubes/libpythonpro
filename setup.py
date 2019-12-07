@@ -19,6 +19,7 @@ standard_exclude_directories = [
 ]
 
 
+
 # (c) 2005 Ian Bicking and contributors; written for Paste
 # (http://pythonpaste.org)
 # Licensed under the MIT license:
@@ -87,6 +88,7 @@ def find_package_data(
                     continue
                 if (os.path.isfile(os.path.join(fn, "__init__.py"))
                         and not prefix):
+
                     if not package:
                         new_package = name
                     else:
@@ -95,6 +97,7 @@ def find_package_data(
                 else:
                     stack.append((fn, prefix + name + "/", package,
                                   only_in_packages))
+
             elif package or not only_in_packages:
                 # is a file
                 bad_name = False
