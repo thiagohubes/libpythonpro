@@ -19,7 +19,6 @@ standard_exclude_directories = [
 ]
 
 
-
 # (c) 2005 Ian Bicking and contributors; written for Paste
 # (http://pythonpaste.org)
 # Licensed under the MIT license:
