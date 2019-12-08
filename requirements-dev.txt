@@ -15,4 +15,8 @@ more_itertools==8.0.2
 six==1.13.0
 pyparsing==2.4.5
 
+#Coverage
+coverage==4.5.4
+pytest-cov==2.8.1
+
 -r requirements.txt
