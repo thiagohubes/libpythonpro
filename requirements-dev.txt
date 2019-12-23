@@ -16,7 +16,7 @@ six==1.13.0
 pyparsing==2.4.5
 
 #Coverage
-coverage==4.5.4
+coverage==5.0.1
 pytest-cov==2.8.1
 
 -r requirements.txt
