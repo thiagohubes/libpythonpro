@@ -13,7 +13,7 @@ attrs==19.3.0
 pluggy==0.13.1
 more_itertools==8.0.2
 six==1.13.0
-pyparsing==2.4.5
+pyparsing==2.4.6
 
 #Coverage
 coverage==4.5.4
